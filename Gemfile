@@ -52,7 +52,7 @@ gem 'bootstrap'
 ############# Gems Im using ###########################
 gem 'httparty'
 gem 'pubnub', '~> 4.1.6'
-gem 'google-api-client', '~> 0.11'
+gem 'google-api-client', '~> 0.53', '>= 0.53.0'
 gem 'yt', '~> 0.32.0'
 gem 'omniauth-twitch', github: 'paladinsoftware/omniauth-twitch-helix'
 # gem 'trollop'
